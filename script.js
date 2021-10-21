@@ -22,7 +22,7 @@ const language = {
       "<br><br>For a person like me who is fascinated by technology, it was natural to start learning programming. " +
       "I am a self taught web developer who is always excited to build a new website and solve problems using my skills. ",
     work1:
-      "This prjects is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sem ante, elit.",
+      "",
     contact:
       "If you have any questions or want to discuss about projects, please reach out to me!",
   },
@@ -32,10 +32,10 @@ const language = {
       "こんにちは、当サイトをご覧いただきありがとうございます。私はシドニーと大阪を拠点に活動しているWebエンジニアです。<br><br>" +
       "新卒でICT企業で営業職として勤務した後、海外経験を積むためにオーストラリアへ渡航しました。" +
       "オーストラリアの自由闊達で、年齢問わず新しいキャリアにチャレンジする文化に感化され、元々IT分野に興味があったことから、プログラミングを学び始めました。<br><br>" +
-      "現在はウェブサイト制作のお仕事をしながら、フリーランスとして活動しています。" +
-      "主にホームページやLP作成、コーディングのお仕事をお受けしております。",
+      "現在はフリーランスとして活動しています。" +
+      "ホームページやLP作成、コーディング業務に加えまして、記事の執筆や英語翻訳のお仕事もお受けしております。",
     work1:
-      "このプロジェクトは、このような理由で作りました。はい。そうです。あいうえおかきくけこさしすせそ。",
+      "",
     contact:
       "Webサイト制作に関するご質問やご依頼など、お気軽にお問い合わせくださいませ。",
   },
